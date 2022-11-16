@@ -1,2 +1,2 @@
 # ShaverGame
-Test
+Demo of game.
